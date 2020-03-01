@@ -8,3 +8,4 @@ some must know basic problems
 3.count leaves in binary tree<br>
 4.mirroring tree <br>
 5.Minimum Depth of a Binary Tree<br>
+6.Determine if Two Trees are Identical<br>
