@@ -9,3 +9,4 @@ some must know basic problems
 4.mirroring tree <br>
 5.Minimum Depth of a Binary Tree<br>
 6.Determine if Two Trees are Identical<br>
+7.Deleting Nodes in a BST<br>
