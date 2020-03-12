@@ -10,3 +10,4 @@ some must know basic problems
 5.Minimum Depth of a Binary Tree<br>
 6.Determine if Two Trees are Identical<br>
 7.Deleting Nodes in a BST<br>
+8.count all the possible paths from top left to bottom right of a MxN matrix<br>
