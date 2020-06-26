@@ -12,3 +12,4 @@ some must know basic problems
 7.Deleting Nodes in a BST<br>
 8.count all the possible paths from top left to bottom right of a MxN matrix<br>
 9.[Gold mine problem](https://practice.geeksforgeeks.org/problems/gold-mine-problem/0)<br>
+10.Check if Tree is Isomorphic<br>
