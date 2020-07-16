@@ -6,4 +6,14 @@
 
 3.Given a number N, find the number of binary strings of length N that contains consecutive 1's in them.<br>
 answer: 2^n - fibonacci[n+2]<br>
-[https://practice.geeksforgeeks.org/problems/trail-of-ones/0]
+[https://practice.geeksforgeeks.org/problems/trail-of-ones/0]<br>
+
+4.Fibonacci Numbers:<br>
+ find n’th Fibonacci Number in O(Log n) time.<br>
+If n is even then k = n/2:<br>  
+F(n) = [2*F(k-1) + F(k)]*F(k)<br>
+If n is odd then k = (n + 1)/2<br>
+F(n) = F(k)*F(k) + F(k-1)*F(k-1)<br>
+
+In this method we directly implement the formula for nth term in the fibonacci series.<br>
+Fn = {[(√5 + 1)/2] ^ n} / √5<br>
