@@ -6,8 +6,6 @@ Suppose that nums is rotated at some pivot unknown to you beforehand (i.e., [0,1
 
 You should search for target in nums and if you found return its index, otherwise return -1.
 
- 
-
 Example 1:
 
 Input: nums = [4,5,6,7,0,1,2], target = 0
