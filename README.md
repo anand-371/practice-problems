@@ -15,8 +15,8 @@ some must know basic problems
 10.Check if Tree is Isomorphic<br>
 
 <br>
-Conventions followed
-★:very easy,solving once should  be enough
-★★:
-★★★:please revisit
-★★★★★:MUST DO WITHOUT FAIL.
+Conventions followed<br>
+★:very easy,solving once should  be enough<br>
+★★:<br>
+★★★:please revisit<br>
+★★★★★:MUST DO WITHOUT FAIL.<br>
