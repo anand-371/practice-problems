@@ -13,3 +13,10 @@ some must know basic problems
 8.count all the possible paths from top left to bottom right of a MxN matrix<br>
 9.[Gold mine problem](https://practice.geeksforgeeks.org/problems/gold-mine-problem/0)<br>
 10.Check if Tree is Isomorphic<br>
+
+<br>
+Conventions followed
+★:very easy,solving once should  be enough
+★★:
+★★★:please revisit
+★★★★★:MUST DO WITHOUT FAIL.
