@@ -19,7 +19,7 @@ Input:
 2 9
 3 9
 Output:
-3 .
+3 
 -1
 */
 #include<bits/stdc++.h>
