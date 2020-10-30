@@ -17,3 +17,10 @@ F(n) = F(k)*F(k) + F(k-1)*F(k-1)<br>
 
 In this method we directly implement the formula for nth term in the fibonacci series.<br>
 Fn = {[(√5 + 1)/2] ^ n} / √5<br>
+
+5.Last non-zero digit of a factorial<br>
+Let D(n) be the last non-zero digit in n!<br>
+If tens digit (or second last digit) of n is odd<br>
+    D(n) = 4 * D(floor(n/5)) * D(Unit digit of n) <br>
+If tens digit (or second last digit) of n is even<br>
+    D(n) = 6 * D(floor(n/5)) * D(Unit digit of n)<br>
