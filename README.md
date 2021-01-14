@@ -15,9 +15,3 @@ some must know basic problems
 10.Check if Tree is Isomorphic<br>
 11.Pascal's Triangle<br>
 
-<br>
-Conventions followed<br>
-★:very easy,solving once should  be enough<br>
-★★:<br>
-★★★:please revisit<br>
-★★★★★:MUST DO WITHOUT FAIL.<br>
