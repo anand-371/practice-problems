@@ -1,4 +1,4 @@
-# Algo_DS
+# Algorithms and Data Structures
 practice questions related to algorithms and DS
 <br>
 # some must know basic problems 
