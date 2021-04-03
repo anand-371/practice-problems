@@ -68,3 +68,18 @@ int solve(int n, int k) {
     }
     return findAll(n, k);
 }
+
+/*
+Bottom up approach 
+    int dp[n + 1][k + 1];
+    memset(dp, 0, sizeof(int) * (n + 1) * (k + 1));
+    for (int j = 0; j < k + 1; j++) dp[0][j] = 1;
+    for (int i = 1; i <= n; i++) {
+        for (int j = 0; j <= k; j++) {
+            if (i >= 1) dp[i][j] += dp[i - 1][j];
+            if (i >= 2) dp[i][j] += dp[i - 2][j];
+            if (i >= 3 && j >= 1) dp[i][j] += dp[i - 3][j - 1];
+        }
+    }
+    return dp[n][k];
+*/
