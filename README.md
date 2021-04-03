@@ -1,5 +1,5 @@
 # Algorithms and Data Structures
-practice questions related to algorithms and DS
+some good practice questions 
 <br>
 # some must know basic problems 
 <br>
